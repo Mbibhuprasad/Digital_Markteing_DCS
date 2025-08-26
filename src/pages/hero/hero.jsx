@@ -239,7 +239,7 @@ export default function Hero() {
               <p className="text-teal-300 font-semibold uppercase tracking-wide">
                 Digital Marketing that drives revenue®
               </p>
-
+              {/* just for checking */}
               <h1 className="text-4xl md:text-4xl font-extrabold leading-snug mt-4">
                 Grow Your Business with Digital Marketing That Works <br />
                 <motion.span
